@@ -1,0 +1,1 @@
+.experience-selection.selected{background-color:#404f6f}.experience-selection.selected .img-wrapper{border:3px solid rgb(121,146,202);border-radius:30px;overflow:hidden}.experience-selection{transition:all .2s ease-in;border-radius:30px;padding:12px;cursor:pointer}.experience-selection .img-wrapper{border:3px solid transparent}.experience-selection:hover{background-color:#404f6f}

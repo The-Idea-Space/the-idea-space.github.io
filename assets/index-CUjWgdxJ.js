@@ -1,0 +1,1 @@
+import{u as a,j as s,R as e}from"./index-DgDS95zu.js";const c=()=>{const t=a();return s.jsx("button",{className:"fixed w-[30px] top-[20px] left-[20px]",onClick:()=>t(e.HOME),children:s.jsx("img",{src:"/static/assets/back_button.svg",alt:"Back"})})};export{c as B};
